@@ -1,0 +1,8 @@
+http://localhost:8080/participation
+http://localhost:8080/participation/1
+http://localhost:8080/gender
+http://localhost:8080/gender/2
+http://localhost:8080/movie
+http://localhost:8080/movie/1
+http://localhost:8080/contributor
+
